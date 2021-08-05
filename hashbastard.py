@@ -4,7 +4,7 @@ import readline
 
 # Written By Ruben Enkaoua - GL4DI4T0R
 # Inglorious Bastards suite
-# python3 hashbastard.py
+# command: python3 hashbastard.py
 
 class k:
     B = '\033[94m'
