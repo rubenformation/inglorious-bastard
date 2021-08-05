@@ -5,7 +5,7 @@ from urllib3.exceptions import InsecureRequestWarning
 
 # Written By Ruben Enkaoua - GL4DI4T0R
 # Inglorious Bastards suite
-# python3 dirbastard.py
+# command: python3 dirbastard.py
 
 class k:
     B = '\033[94m'
