@@ -1,0 +1,3 @@
+pip3 install scapy
+pip3 install mac-vendor-lookup
+pip3 install pysmb
